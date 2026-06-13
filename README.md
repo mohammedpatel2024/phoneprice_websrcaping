@@ -9,3 +9,4 @@ Data extracted by the scraper is processed into a clean, structured format such 
 
 Overall, the project provides a robust foundation for real-time price tracking and market analysis in the smartphone domain. It is well-suited for developers, researchers, and analysts who need reliable, automated access to mobile phone pricing data from multiple online sources.
 <img width="959" height="539" alt="2web" src="https://github.com/user-attachments/assets/513a45d8-f8ec-47a7-a7bc-4450424ef155" />
+feature branch change
